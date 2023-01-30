@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning ... ---> [Today I Learn](https://0seony.github.io/)
 <!--
 **0seony/0seony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
